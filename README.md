@@ -139,3 +139,9 @@ Add the requested screenshots at these paths:
 ![Experiment console output](screenshots/output.png)
 
 ![JUnit test results](screenshots/test_results.png)
+
+
+---
+
+## Declaration
+> I agree that all files which I uploaded might be submitted to the StrikePlagiarism.com antiplagiarism system in order to check originality of the text.
